@@ -76,7 +76,7 @@ caches statistics for your repositories. For more information, see issue
 7. Check out the images that have been created in the `generated` folder.
 8. Link back to this repository so that others can generate their own 
    statistics images.
-9. Star this repo if you like it!
+9. Star this repo if you like it
 
 
 # Related Projects
